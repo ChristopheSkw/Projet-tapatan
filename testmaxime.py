@@ -63,7 +63,3 @@ Bouton_Degrade_Gris.grid(row = 2, column = 0)
 Bouton_Degrade_2D.grid(row = 3, column = 0)
 
 racine.mainloop()
-
-print ("Pourtant j'me sens si seul")
-
-print ("test 1")
