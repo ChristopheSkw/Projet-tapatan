@@ -10,4 +10,4 @@
 
 modif
 
-test dd
+test auDD
