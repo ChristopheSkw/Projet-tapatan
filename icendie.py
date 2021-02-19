@@ -7,3 +7,4 @@
 # Mariam Akennad
 # https://github.com/ChristopheSkw/projet_incendie
 #########################################
+mamamia let me go
