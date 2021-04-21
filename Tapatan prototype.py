@@ -15,7 +15,7 @@ xp9, yp9 = (LARGEUR // 7)*6, (HAUTEUR // 7)*6
 
 # Fonctions
 def creer_tabledejeu():
-    rayon = 15
+    rayon = 20
     cercle = canvas.create_oval((xp1-rayon, yp1-rayon),(xp1+rayon, yp1+rayon),
                                 fill="black")
     cercle = canvas.create_oval((xp2-rayon, yp2-rayon),(xp2+rayon, yp2+rayon),
@@ -63,3 +63,5 @@ trait2 = creer_traithorizontal()
 trait3 = creer_traitdiagonal()
 table = creer_tabledejeu()
 racine.mainloop()
+
+####test pour le commit
