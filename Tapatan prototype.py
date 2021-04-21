@@ -63,5 +63,3 @@ trait2 = creer_traithorizontal()
 trait3 = creer_traitdiagonal()
 table = creer_tabledejeu()
 racine.mainloop()
-
-####test pour le commit2
